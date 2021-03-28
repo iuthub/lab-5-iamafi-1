@@ -1,0 +1,5 @@
+Sunat;MA;2312313133;visa
+Sunat;MA;2312313133;visa
+Sunat;MA;2312313133;visa
+Sunat;MA;2312313133;visa
+Maftuna;MD;33;mastercard
